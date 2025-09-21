@@ -41,8 +41,8 @@ The aim is to extract actionable insights for restaurant owners, marketers, and 
 - Python (Pandas, NumPy)
 - Jupyter Notebook Documentation
 
-## 👨‍💻 Author
+## Author
 Created by **Vrushil Shah**
 
-## 📜 License
+## License
 This project is licensed under the MIT License.
